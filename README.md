@@ -15,12 +15,10 @@ We are a free subdomain service who provide sweet-looking `.isfreelancer.com` su
 - [Fork](https://github.com/livrasand/isfreelancer.com) and star this repository
 - **Edit** the `subdomains.json` file and add the following fragment to register your subdomain:
 ```json
-[
-  {
-    "username": "your-github-username",
-    "subdomain": "your-subdomain"
-  }
-]
+ {
+   "username": "your-github-username",
+   "subdomain": "your-subdomain"
+ },
 ```
 This will register `your-subdomain.isfreelancer.com`.
 - Your pull request will be reviewed and merged. *Make sure to keep an eye on it incase we need you to make any changes!*
