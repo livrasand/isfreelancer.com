@@ -24,4 +24,4 @@ jobs:
 
     - name: Run subdomain verification script
       run: |
-        python check_subdomain.py
+        python scripts/check_subdomain.py
