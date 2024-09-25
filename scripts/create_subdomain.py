@@ -22,7 +22,7 @@ def create_subdomain(subdomain):
     return response.status_code == 200
 
 # Leer archivo subdominios.json
-with open('subdominios.json', 'r') as file:
+with open('subdomains.json', 'r') as file:
     subdominios = json.load(file)
 
 # Buscar el último subdominio añadido
