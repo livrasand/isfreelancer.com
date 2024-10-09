@@ -35,7 +35,9 @@ We are a free subdomain service who provide sweet-looking `.isfreelancer.com` su
   "url": "your-domain-or-ip"
 }
 ```
+
 This will register `your-subdomain.isfreelancer.com`.
+
 3. Your pull request will be reviewed and merged. *Make sure to keep an eye on it incase we need you to make any changes!*
-4. After the pull request is merged, please allow up to 24 hours for the changes to propagate
+4. After the pull request is merged, please allow up to 48 hours for the changes to propagate
 5. Enjoy your new `.isfreelancer.com` domain!
