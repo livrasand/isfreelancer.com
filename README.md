@@ -41,3 +41,10 @@ This will register `your-subdomain.isfreelancer.com`.
 3. Your pull request will be reviewed and merged. *Make sure to keep an eye on it incase we need you to make any changes!*
 4. After the pull request is merged, please allow up to 48 hours for the changes to propagate
 5. Enjoy your new `.isfreelancer.com` domain!
+
+## Work with
+
+We have verified that `isfreelancer.com` works seamlessly with the following services:
+
+- [x] [InfinityFree.com](infinityfree.com) (Hosting)
+- [x] [ZeroSSL](zerossl.com) (Free SSL Provider)
